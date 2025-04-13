@@ -5,16 +5,16 @@ import App from "./App";
 
 import StarRating from "./StarRating";
 
-function Test() {
-  const [movieRating, setMovieRating] = useState(0);
+// function Test() {
+//   const [movieRating, setMovieRating] = useState(0);
 
-  return (
-    <div>
-      <StarRating color="blue" onSetRating={setMovieRating} />
-      <p>This Movies was rated {movieRating} stars</p>
-    </div>
-  );
-}
+//   return (
+//     <div>
+//       <StarRating color="blue" onSetRating={setMovieRating} />
+//       <p>This Movies was rated {movieRating} stars</p>
+//     </div>
+//   );
+// }
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
