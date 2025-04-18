@@ -12,7 +12,7 @@ usePopcorn is a React-based movie application that allows users to search for mo
 
 ## Live Demo
 
-[PopCorn 🍿](https://your-live-demo-link.com)
+[PopCorn 🍿](https://subtle-snickerdoodle-8a7e8c.netlify.app/) **my API this http and netlify https prevent it. 🙂**
 
 ## Usage
 
